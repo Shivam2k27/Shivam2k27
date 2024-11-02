@@ -8,9 +8,14 @@ I specialize in building modern, responsive web applications using the latest te
 
 <h2>💡 My Skills Include:</h2>
 
-Front-End: HTML, CSS, JavaScript, React.js, Tailwind CSS
-Back-End: Node.js, Express, MongoDB, RESTful APIs
-Tools & Platforms: Git, GitHub, AWS, Docker, CI/CD Pipelines.
+<ul>
+<li>Front-End: HTML, CSS, JavaScript, React.js, Tailwind CSS</li>
+<li>Back-End: Node.js, Express, MongoDB, RESTful APIs</li>
+<li>Tools & Platforms: Git, GitHub, AWS, Docker, CI/CD Pipelines.</li>
+</ul>
+
+
+
 
 👏 Contributions Welcome
 Got an idea or found an issue? Feel free to open an issue or create a pull request. Let’s build great things together!
